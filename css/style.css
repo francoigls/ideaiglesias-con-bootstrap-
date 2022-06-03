@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+  
+.a {
+    text-decoration: none;
+    color: white;
+    box-shadow: inset 0 -3px 0 0 white;
+  box-shadow: none;
+
+}
+
+  
+.a:root{
+    text-decoration: none;
+    color: #E8DCC6;
+    box-shadow: inset 0 -3px 0 0 white;
+  box-shadow: none;
+
+}
+#main {
+    margin-top: 100px;
+} 
+
+#brand {
+    color: white;
+    
+    background-image: url(../img/imagenesshop/imagen\ fondo\ brand.webp);
+}
+
+.btn1 {
+    height:  45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: #E8DCC6 ;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+
+.btn1:hover{ 
+    background-color: #d8d0c2;
+
+}
+
+.card:hover {
+    box-shadow: 10px 8px 11px 3px rgba(0,0,0,0.76);
+-webkit-box-shadow: 10px 8px 11px 3px rgba(0,0,0,0.76);
+-moz-box-shadow: 10px 8px 11px 3px rgba(0,0,0,0.76);
+} 
+
+
+
+
+#dull {
+    font-size: 30px;
+}
+
+
+#footer {
+    background-color: #E8DCC6;
+    
+}
+
+#tipografia {
+    font-family: 'Nuosu SIL', serif;
+}
+
+
+
+h6 {
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+#fd {
+    
+    background-image: url(../img/DSC03619.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+
+}
+
+
+
+#fi
+{
+background-image: url(../img/verano.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+#padre{
+    position: absolute;
+}
+
+
+#texto {
+    position: relative;
+    top: 50%;
+}
+
+
+
+@media screen and (min-width: 800px  ) {
+    
+ 
+    #footer {
+        margin-top: 10px;
+        padding: 0;
+        width: 100%;
+    }
+    
+    #c {
+        margin-top: 10px;
+    }
+    
+
+    #fd {
+    
+        
+        height: 400px;
+        width: 100%;
+    
+    }
+    #fb {
+       
+        height: 800px;
+        width: 100%;
+    }
+    
+    
+}
+
+
+@media screen and (min-width: 1200px  ) {
+    
+}
+
+
+
+
+#botonshop {
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-bottom: 10rem;
+}
+
+
+
+
+
+
+#fb {
+    background-image: url(../img/imagenesshop/imagen\ fondo\ brand.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
